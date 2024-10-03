@@ -1,4 +1,5 @@
-### Hello world! We all make mistakes and learn about them 🤓
+### Hello world! 
+### We all make mistakes and learn about them 🤓
 
 - 🔭 Looking for internship
 - 🌱 Currently studying 4rd period at IMT - Instituto Mauá de Tecnonlogia
